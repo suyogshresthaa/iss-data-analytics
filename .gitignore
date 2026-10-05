@@ -1,0 +1,23 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Cached API responses — re-fetchable, large, not source
+cycle*/data/raw/*
+!cycle*/data/raw/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Tableau working files
+*.twbr
+*.hyper
+
+# Others
+project_template.pdf
+CLAUDE.md
