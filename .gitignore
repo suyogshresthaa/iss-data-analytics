@@ -18,6 +18,11 @@ cycle*/data/raw/*
 *.twbr
 *.hyper
 
+# Claude
+.claude/
+
+# Outputs
+**/test_logs/
+
 # Others
 project_template.pdf
-CLAUDE.md
