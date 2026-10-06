@@ -1,0 +1,859 @@
+series,indicator,m49_code,area,year,value,lower_bound,upper_bound,location,nature,units,source,grouping_type
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2015,87.8,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2015,82.6,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2015,97.5,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2016,89.8,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2016,85.2,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2016,98.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2017,92.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2017,88.6,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2017,99.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2018,95.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2018,92.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2018,99.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2019,95.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2019,93.4,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2019,99.5,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2020,96.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2020,95.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2020,99.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2021,98.9,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2021,98.2,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2021,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2022,98.4,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2022,98.1,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2022,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2023,98.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2023,98.1,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2023,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2024,99.1,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2024,98.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,62,Central and Southern Asia,2024,99.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2015,48.0,36.0,61.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2015,26.0,19.0,34.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2015,83.0,75.0,88.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2016,51.0,38.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2016,30.0,22.0,38.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2016,84.0,78.0,89.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2017,54.0,41.0,66.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2017,33.0,26.0,42.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2017,86.0,79.0,91.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2018,57.0,44.0,69.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2018,37.0,29.0,46.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2018,87.0,81.0,92.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2019,60.0,47.0,71.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2019,41.0,32.0,49.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2019,88.0,82.0,92.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2020,63.0,50.0,74.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2020,44.0,36.0,53.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2020,89.0,83.0,93.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2021,65.0,52.0,76.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2021,48.0,39.0,57.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2021,90.0,84.0,94.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2022,68.0,55.0,77.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2022,51.0,42.0,60.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2022,91.0,85.0,94.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2023,70.0,57.0,79.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2023,55.0,44.0,64.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2023,91.0,86.0,95.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2024,72.0,59.0,81.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2024,58.0,46.0,67.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,62,Central and Southern Asia,2024,92.0,86.0,95.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2015,4.23,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2016,4.09,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2017,4.04,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2018,3.96,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2019,3.91,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2020,3.98,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2021,3.96,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2022,3.86,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,62,Central and Southern Asia,2023,3.76,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2015,26.42,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2016,25.91,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2017,25.54,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2018,25.89,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2019,25.91,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2020,26.63,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2021,25.75,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2022,25.7,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,62,Central and Southern Asia,2023,25.11,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2015,97.2,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2015,95.7,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2015,99.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2016,97.4,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2016,95.7,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2016,99.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2017,98.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2017,97.1,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2017,99.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2018,98.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2018,96.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2018,99.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2019,98.2,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2019,97.2,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2019,99.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2020,98.1,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2020,96.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2020,99.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2021,98.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2021,97.7,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2021,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2022,98.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2022,97.4,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2022,99.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2023,98.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2023,97.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2023,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2024,98.8,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2024,98.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,753,Eastern and South-Eastern Asia,2024,98.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2015,70.0,62.0,77.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2015,48.0,38.0,59.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2015,86.0,77.0,92.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2016,73.0,65.0,80.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2016,52.0,41.0,62.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2016,88.0,78.0,93.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2017,75.0,67.0,82.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2017,56.0,45.0,66.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2017,89.0,79.0,94.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2018,78.0,70.0,84.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2018,59.0,48.0,69.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2018,90.0,81.0,94.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2019,80.0,72.0,86.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2019,62.0,52.0,72.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2019,91.0,82.0,95.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2020,81.0,74.0,87.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2020,65.0,54.0,74.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2020,91.0,83.0,95.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2021,83.0,76.0,88.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2021,68.0,57.0,77.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2021,92.0,84.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2022,85.0,77.0,90.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2022,70.0,59.0,79.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2022,93.0,85.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2023,86.0,79.0,91.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2023,73.0,61.0,81.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2023,94.0,86.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2024,87.0,80.0,91.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2024,74.0,63.0,83.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,753,Eastern and South-Eastern Asia,2024,94.0,86.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2015,4.92,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2016,4.69,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2017,4.6,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2018,4.55,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2019,4.48,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2020,4.54,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2021,4.5,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2022,4.44,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,753,Eastern and South-Eastern Asia,2023,4.45,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2015,12.32,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2016,12.62,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2017,12.94,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2018,13.26,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2019,13.36,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2020,13.73,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2021,13.88,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2022,14.38,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,753,Eastern and South-Eastern Asia,2023,14.41,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2015,99.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2015,99.3,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2015,99.3,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2016,99.9,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2016,99.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2016,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2017,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2017,99.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2017,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2018,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2018,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2018,100.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2019,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2019,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2019,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2020,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2020,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2020,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2021,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2021,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2021,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2022,99.9,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2022,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2022,99.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2023,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2023,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2023,100.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2024,100.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2024,100.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,513,Europe and Northern America,2024,100.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2015,96.0,91.0,98.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2015,92.0,83.0,96.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2015,98.0,92.0,99.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2016,97.0,91.0,98.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2016,93.0,84.0,96.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2016,98.0,93.0,99.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2017,97.0,91.0,98.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2017,93.0,84.0,96.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2017,98.0,93.0,99.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2018,97.0,92.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2018,93.0,85.0,97.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2018,98.0,93.0,99.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2019,97.0,92.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2019,94.0,86.0,97.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2019,98.0,93.0,99.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2020,97.0,92.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2020,94.0,86.0,97.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2020,98.0,93.0,99.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2021,97.0,92.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2021,94.0,86.0,97.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2021,98.0,93.0,100.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2022,98.0,92.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2022,95.0,87.0,97.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2022,98.0,93.0,100.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2023,98.0,92.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2023,95.0,87.0,98.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2023,98.0,93.0,100.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2024,98.0,93.0,99.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2024,95.0,87.0,98.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,513,Europe and Northern America,2024,99.0,93.0,100.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2015,3.78,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2016,3.73,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2017,3.66,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2018,3.64,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2019,3.52,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2020,3.44,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2021,3.43,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2022,3.29,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,513,Europe and Northern America,2023,3.15,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2015,11.91,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2016,12.14,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2017,12.42,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2018,12.73,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2019,13.08,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2020,14.27,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2021,14.02,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2022,14.33,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,513,Europe and Northern America,2023,15.16,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2015,47.9,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2015,34.2,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2015,83.0,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2016,54.5,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2016,43.5,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2016,84.0,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2017,55.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2017,44.9,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2017,86.8,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2018,57.2,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2018,46.3,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2018,86.3,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2019,58.0,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2019,48.6,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2019,87.2,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2020,59.1,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2020,48.1,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2020,87.9,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2021,60.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2021,49.2,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2021,88.8,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2022,60.0,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2022,46.3,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2022,88.7,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2023,61.4,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2023,48.3,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2023,88.9,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2024,62.9,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2024,48.2,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,432,Landlocked developing countries (LLDCs),2024,90.0,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2015,27.0,25.0,29.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2015,14.0,13.0,16.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2015,56.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2016,27.0,25.0,29.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2016,15.0,13.0,16.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2016,56.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2017,28.0,26.0,30.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2017,15.0,13.0,17.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2017,56.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2018,28.0,26.0,30.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2018,15.0,13.0,17.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2018,55.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2019,28.0,26.0,30.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2019,15.0,13.0,17.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2019,55.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2020,28.0,26.0,30.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2020,15.0,13.0,17.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2020,55.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2021,29.0,26.0,31.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2021,16.0,13.0,17.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2021,55.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2022,29.0,26.0,31.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2022,16.0,13.0,18.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2022,55.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2023,29.0,27.0,31.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2023,16.0,13.0,18.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2023,55.0,51.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2024,29.0,27.0,32.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2024,16.0,13.0,18.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,432,Landlocked developing countries (LLDCs),2024,55.0,50.0,59.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2015,4.89,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2016,5.02,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2017,4.95,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2018,5.0,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2019,4.88,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2020,4.91,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2021,5.05,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2022,4.86,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,432,Landlocked developing countries (LLDCs),2023,4.78,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2015,43.37,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2016,43.05,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2017,42.85,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2018,42.23,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2019,42.43,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2020,42.34,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2021,40.18,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2022,39.92,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,432,Landlocked developing countries (LLDCs),2023,39.67,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2015,97.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2015,89.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2015,99.4,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2016,97.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2016,93.2,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2016,99.5,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2017,97.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2017,90.4,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2017,99.5,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2018,97.8,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2018,90.6,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2018,99.5,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2019,98.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2019,91.4,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2019,99.6,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2020,98.2,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2020,95.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2020,99.6,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2021,98.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2021,96.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2021,99.5,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2022,98.6,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2022,92.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2022,99.6,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2023,98.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2023,92.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2023,99.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2024,98.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2024,91.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,419,Latin America and the Caribbean,2024,99.6,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2015,87.0,84.0,89.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2015,57.0,51.0,61.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2015,95.0,92.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2016,87.0,84.0,89.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2016,58.0,52.0,62.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2016,95.0,92.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2017,87.0,84.0,89.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2017,59.0,53.0,64.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2017,95.0,92.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2018,88.0,85.0,90.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2018,60.0,54.0,65.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2018,95.0,92.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2019,88.0,85.0,90.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2019,61.0,55.0,66.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2019,95.0,92.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2020,88.0,85.0,90.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2020,62.0,56.0,67.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2020,95.0,92.0,96.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2021,89.0,86.0,91.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2021,63.0,57.0,68.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2021,95.0,92.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2022,89.0,86.0,91.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2022,64.0,58.0,70.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2022,95.0,92.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2023,89.0,86.0,91.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2023,65.0,58.0,71.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2023,95.0,92.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2024,90.0,86.0,92.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2024,66.0,59.0,72.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,419,Latin America and the Caribbean,2024,95.0,92.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2015,3.02,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2016,3.02,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2017,2.97,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2018,2.89,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2019,2.92,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2020,2.94,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2021,2.94,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2022,2.86,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,419,Latin America and the Caribbean,2023,2.86,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2015,28.56,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2016,29.05,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2017,29.67,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2018,30.8,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2019,31.07,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2020,34.36,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2021,32.4,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2022,32.17,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,419,Latin America and the Caribbean,2023,33.21,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2015,42.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2015,29.0,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2015,72.1,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2016,46.4,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2016,35.9,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2016,73.8,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2017,50.2,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2017,40.8,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2017,76.3,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2018,51.2,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2018,39.7,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2018,76.1,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2019,53.0,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2019,42.9,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2019,77.6,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2020,54.6,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2020,44.0,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2020,78.8,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2021,56.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2021,45.5,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2021,80.3,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2022,56.8,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2022,43.9,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2022,81.0,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2023,58.6,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2023,45.6,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2023,82.9,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2024,60.4,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2024,47.8,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,199,Least Developed Countries (LDCs),2024,83.5,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2015,14.0,12.0,17.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2015,6.0,4.0,7.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2015,35.0,31.0,38.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2016,15.0,13.0,18.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2016,6.0,5.0,8.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2016,36.0,32.0,39.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2017,16.0,14.0,18.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2017,7.0,5.0,8.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2017,37.0,33.0,40.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2018,17.0,14.0,19.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2018,7.0,5.0,9.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2018,37.0,34.0,41.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2019,17.0,15.0,20.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2019,8.0,6.0,9.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2019,38.0,34.0,41.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2020,18.0,15.0,20.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2020,8.0,6.0,10.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2020,38.0,35.0,42.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2021,18.0,16.0,21.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2021,8.0,6.0,10.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2021,39.0,35.0,42.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2022,19.0,16.0,21.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2022,9.0,6.0,11.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2022,39.0,35.0,43.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2023,19.0,17.0,22.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2023,9.0,7.0,11.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2023,40.0,36.0,44.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2024,20.0,17.0,23.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2024,9.0,7.0,12.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,199,Least Developed Countries (LDCs),2024,40.0,36.0,45.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2015,4.11,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2016,4.08,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2017,4.07,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2018,3.98,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2019,3.89,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2020,4.0,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2021,3.98,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2022,3.9,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,199,Least Developed Countries (LDCs),2023,3.81,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2015,72.95,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2016,71.62,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2017,70.15,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2018,68.91,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2019,68.15,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2020,69.47,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2021,68.56,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2022,68.09,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,199,Least Developed Countries (LDCs),2023,68.43,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2015,92.9,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2015,84.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2015,98.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2016,93.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2016,85.4,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2016,98.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2017,94.2,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2017,87.6,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2017,98.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2018,93.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2018,84.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2018,98.6,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2019,94.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2019,86.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2019,98.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2020,94.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2020,87.3,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2020,99.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2021,94.4,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2021,87.6,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2021,99.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2022,94.6,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2022,87.1,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2022,99.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2023,95.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2023,88.7,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2023,99.2,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2024,95.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2024,88.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,747,Northern Africa and Western Asia,2024,99.2,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2015,90.0,87.0,93.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2015,79.0,75.0,83.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2015,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2016,90.0,87.0,93.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2016,79.0,75.0,83.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2016,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2017,90.0,87.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2017,79.0,75.0,83.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2017,97.0,95.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2018,90.0,87.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2018,79.0,75.0,84.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2018,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2019,90.0,87.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2019,79.0,74.0,84.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2019,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2020,90.0,87.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2020,79.0,74.0,85.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2020,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2021,90.0,87.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2021,79.0,74.0,84.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2021,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2022,90.0,86.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2022,79.0,73.0,85.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2022,97.0,94.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2023,90.0,86.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2023,78.0,73.0,85.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2023,96.0,93.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2024,90.0,86.0,94.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2024,78.0,72.0,85.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,747,Northern Africa and Western Asia,2024,96.0,93.0,98.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2015,3.98,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2016,3.96,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2017,3.96,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2018,3.85,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2019,3.8,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2020,3.76,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2021,3.72,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2022,3.61,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,747,Northern Africa and Western Asia,2023,3.64,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2015,5.4,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2016,5.44,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2017,5.26,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2018,5.39,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2019,5.88,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2020,6.09,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2021,5.77,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2022,5.98,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,747,Northern Africa and Western Asia,2023,6.18,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2015,81.2,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2015,46.3,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2015,98.3,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2016,80.1,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2016,42.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2016,98.3,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2017,81.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2017,46.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2017,98.2,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2018,80.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2018,45.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2018,97.9,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2019,82.2,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2019,49.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2019,98.3,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2020,81.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2020,47.4,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2020,98.2,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2021,81.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2021,47.0,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2021,98.2,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2022,80.9,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2022,46.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2022,98.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2023,81.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2023,46.3,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2023,98.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2024,86.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2024,61.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,9,Oceania,2024,98.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2015,75.0,65.0,77.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2015,33.0,24.0,39.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2015,95.0,82.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2016,75.0,65.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2016,33.0,25.0,40.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2016,95.0,82.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2017,75.0,65.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2017,33.0,25.0,40.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2017,95.0,82.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2018,75.0,66.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2018,33.0,26.0,41.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2018,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2019,75.0,66.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2019,33.0,26.0,41.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2019,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2020,75.0,66.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2020,34.0,26.0,42.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2020,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2021,75.0,66.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2021,34.0,26.0,43.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2021,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2022,75.0,66.0,79.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2022,34.0,27.0,44.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2022,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2023,75.0,66.0,79.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2023,34.0,27.0,45.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2023,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2024,75.0,66.0,80.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2024,34.0,27.0,46.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,9,Oceania,2024,95.0,83.0,97.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2015,3.97,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2016,3.84,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2017,3.77,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2018,3.67,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2019,3.74,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2020,3.78,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2021,3.51,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2022,3.37,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,9,Oceania,2023,3.36,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2015,13.55,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2016,13.71,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2017,13.99,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2018,13.84,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2019,14.22,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2020,14.96,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2021,16.02,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2022,17.22,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,9,Oceania,2023,17.63,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2015,75.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2015,47.0,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2015,93.9,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2016,74.9,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2016,56.0,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2016,94.1,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2017,76.4,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2017,48.7,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2017,94.2,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2018,76.1,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2018,48.0,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2018,94.1,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2019,77.4,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2019,50.5,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2019,94.6,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2020,77.4,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2020,60.8,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2020,94.8,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2021,77.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2021,60.4,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2021,94.7,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2022,77.3,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2022,49.2,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2022,94.7,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2023,78.1,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2023,50.2,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2023,92.9,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2024,81.5,,,ALLAREA,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2024,61.1,,,RURAL,N,PERCENT,World Bank,development_grouping
+EG_ACS_ELEC,7.1.1,722,Small island developing States (SIDS),2024,95.2,,,URBAN,N,PERCENT,World Bank,development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2015,60.0,56.0,62.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2015,33.0,30.0,37.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2015,79.0,74.0,81.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2016,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2016,34.0,30.0,38.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2016,78.0,74.0,81.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2017,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2017,34.0,31.0,38.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2017,78.0,74.0,81.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2018,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2018,35.0,31.0,39.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2018,78.0,74.0,81.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2019,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2019,35.0,32.0,39.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2019,78.0,74.0,80.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2020,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2020,35.0,32.0,40.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2020,78.0,74.0,80.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2021,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2021,36.0,32.0,41.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2021,77.0,73.0,80.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2022,60.0,57.0,63.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2022,36.0,32.0,41.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2022,77.0,73.0,80.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2023,60.0,57.0,64.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2023,36.0,32.0,42.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2023,77.0,73.0,80.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2024,60.0,57.0,64.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2024,36.0,32.0,43.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_CLEAN,7.1.2,722,Small island developing States (SIDS),2024,77.0,72.0,81.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2015,2.39,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2016,2.35,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2017,2.31,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2018,2.26,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2019,2.24,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2020,2.26,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2021,2.21,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2022,2.12,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_EGY_PRIM,7.3.1,722,Small island developing States (SIDS),2023,2.07,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2015,17.64,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2016,17.4,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2017,18.21,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2018,18.33,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2019,17.34,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2020,18.23,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2021,17.49,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2022,16.6,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_FEC_RNEW,7.2.1,722,Small island developing States (SIDS),2023,16.32,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",development_grouping
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2015,38.8,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2015,18.1,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2015,72.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2016,43.5,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2016,25.1,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2016,74.7,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2017,43.3,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2017,23.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2017,76.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2018,46.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2018,26.8,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2018,75.4,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2019,46.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2019,27.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2019,77.1,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2020,48.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2020,27.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2020,78.3,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2021,50.1,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2021,29.5,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2021,80.6,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2022,51.0,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2022,28.9,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2022,81.0,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2023,52.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2023,31.6,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2023,82.2,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2024,54.7,,,ALLAREA,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2024,32.7,,,RURAL,N,PERCENT,World Bank,sdg_region
+EG_ACS_ELEC,7.1.1,202,Sub-Saharan Africa,2024,82.8,,,URBAN,N,PERCENT,World Bank,sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2015,14.0,13.0,15.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2015,4.0,4.0,5.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2015,28.0,26.0,31.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2016,15.0,13.0,16.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2016,5.0,4.0,6.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2016,30.0,27.0,33.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2017,15.0,14.0,17.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2017,5.0,4.0,6.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2017,31.0,29.0,34.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2018,16.0,15.0,18.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2018,5.0,4.0,6.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2018,33.0,30.0,36.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2019,17.0,16.0,20.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2019,6.0,5.0,7.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2019,35.0,32.0,39.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2020,18.0,16.0,21.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2020,6.0,5.0,7.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2020,37.0,34.0,41.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2021,19.0,17.0,22.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2021,6.0,5.0,8.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2021,39.0,36.0,43.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2022,20.0,18.0,23.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2022,7.0,5.0,8.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2022,41.0,37.0,45.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2023,21.0,19.0,24.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2023,7.0,6.0,9.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2023,42.0,38.0,46.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2024,22.0,20.0,25.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2024,7.0,6.0,9.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_CLEAN,7.1.2,202,Sub-Saharan Africa,2024,43.0,39.0,48.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2015,3.98,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2016,4.06,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2017,4.0,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2018,3.9,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2019,3.96,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2020,4.09,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2021,4.12,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2022,3.97,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_EGY_PRIM,7.3.1,202,Sub-Saharan Africa,2023,3.89,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2015,60.31,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2016,60.34,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2017,60.23,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2018,59.63,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2019,60.18,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2020,62.44,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2021,61.03,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2022,60.96,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_FEC_RNEW,7.2.1,202,Sub-Saharan Africa,2023,61.24,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",sdg_region
+EG_ACS_ELEC,7.1.1,1,World,2015,87.0,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2015,76.8,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2015,96.5,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2016,88.2,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2016,79.4,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2016,96.9,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2017,89.0,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2017,80.9,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2017,97.2,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2018,89.9,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2018,81.9,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2018,97.1,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2019,90.2,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2019,82.7,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2019,97.3,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2020,90.5,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2020,83.0,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2020,97.3,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2021,91.4,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2021,84.5,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2021,97.7,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2022,91.4,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2022,83.5,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2022,97.7,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2023,91.7,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2023,84.0,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2023,97.8,,,URBAN,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2024,91.9,,,ALLAREA,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2024,84.5,,,RURAL,N,PERCENT,World Bank,world
+EG_ACS_ELEC,7.1.1,1,World,2024,97.8,,,URBAN,N,PERCENT,World Bank,world
+EG_EGY_CLEAN,7.1.2,1,World,2015,64.0,59.0,68.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2015,38.0,34.0,42.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2015,84.0,81.0,86.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2016,65.0,61.0,69.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2016,40.0,36.0,44.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2016,85.0,82.0,87.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2017,67.0,63.0,70.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2017,42.0,38.0,47.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2017,86.0,82.0,88.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2018,68.0,64.0,72.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2018,45.0,40.0,49.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2018,86.0,83.0,88.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2019,70.0,65.0,73.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2019,47.0,43.0,51.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2019,87.0,84.0,89.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2020,71.0,67.0,74.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2020,49.0,44.0,53.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2020,87.0,84.0,89.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2021,72.0,68.0,75.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2021,51.0,46.0,55.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2021,88.0,85.0,89.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2022,73.0,69.0,76.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2022,53.0,48.0,57.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2022,88.0,85.0,90.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2023,74.0,70.0,77.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2023,54.0,49.0,59.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2023,88.0,85.0,90.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2024,75.0,71.0,78.0,ALLAREA,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2024,56.0,51.0,60.0,RURAL,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_CLEAN,7.1.2,1,World,2024,89.0,86.0,90.0,URBAN,N,PERCENT,"Global Health Observatory (GHO), World Health Organisation (WHO).",world
+EG_EGY_PRIM,7.3.1,1,World,2015,4.22,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2016,4.13,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2017,4.07,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2018,4.02,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2019,3.95,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2020,3.93,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2021,3.91,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2022,3.81,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_EGY_PRIM,7.3.1,1,World,2023,3.76,,,ALLAREA,N,MJ_PER_GDP_CON_PPP_USD,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2015,15.63,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2016,15.82,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2017,16.02,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2018,16.27,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2019,16.54,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2020,17.74,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2021,17.41,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2022,17.7,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
+EG_FEC_RNEW,7.2.1,1,World,2023,18.0,,,ALLAREA,N,PERCENT,"IEA (2025), World Energy Balances; Energy Balances, UN Statistics Division (2025)",world
