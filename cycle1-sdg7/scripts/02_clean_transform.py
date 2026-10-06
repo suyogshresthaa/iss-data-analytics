@@ -190,9 +190,6 @@ def main():
     for _, row in jumps.nlargest(5, "step", keep="all").head(5).iterrows():
         print(f"    {row.area} {row.series} {row.year - 1}->{row.year}: "
               f"{row.step:+.1f} pp (to {row.value:.1f})")
-    if len(jumps):
-        print("    -> real revisions in the source data, not cleaning errors; keep but "
-              "mention on the limitations slide")
 
     # --- split and write ----------------------------------------------------
     # Split the tidy DataFrame into countries, regions, and wide format for output
