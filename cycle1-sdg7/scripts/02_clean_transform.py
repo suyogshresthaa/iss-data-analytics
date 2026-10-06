@@ -1,15 +1,19 @@
-"""Clean and reshape the cached SDG 7 raw data into analysis-ready tables.
+"""Clean and reshape the cached SDG 7 raw data into CSV tables.
 
 Reads the JSON cached by 01_fetch_un_sdg.py and writes three CSVs to data/processed/:
 
-    sdg7_tidy.csv     long format, countries only, one row per country-year-series-location
-    sdg7_regions.csv  long format, World + the 7 SDG regions (for trend charts)
-    sdg7_wide.csv     one row per country-year, one column per indicator (all-areas only)
+    sdg7_tidy.csv     → long format, countries only, one row per country-year-indicator-location
+    sdg7_regions.csv  → long format, World + the 7 SDG regions 
+    sdg7_wide.csv     → one row per country-year, one column per indicator (all-areas only)
 
 The important job here is separating real countries from regional aggregates. The API's
-`Reporting Type` field does NOT do this -- every row is "G", including rows for
-"Australia and New Zealand" -- so the geographic tree is the only reliable signal:
-any node with children is an aggregate, leaves are countries.
+`Reporting Type` field does NOT do this - every row is "G". So the geographic tree is the 
+only reliable signal: any node with children is an aggregate, leaves are countries.
+
+An aggregate is a row where the "area" isn't a single country. It's a group of countries 
+already summed up into one number by the UN.
+
+Hierarchy: World → Sub-Saharan Africa (aggregate) → Eastern Africa (aggregate) → Rwanda (country)
 
 Usage:
     python scripts/02_clean_transform.py
@@ -27,9 +31,9 @@ OUT_DIR = CYCLE_DIR / "data" / "processed"
 # The tree's first root holds the official SDG regional hierarchy.
 SDG_ROOT = "World (total) by SDG regions"
 
-# Aggregates whose names in the data differ from their names in the tree (the tree says
+# Aggregates that appear in the data but not in the tree with matching spelling (the tree says
 # "Least Developed Countries (LDC)", the data says "...(LDCs)"), plus "World", which is
-# only ever a root label in the tree. Listed explicitly so the QA step flags anything new.
+# only ever a root label in the tree.
 EXTRA_AGGREGATES = {
     "World",
     "Least Developed Countries (LDCs)",
@@ -62,7 +66,9 @@ KEEP = {
 
 
 def build_geo_lookup(tree):
-    """Return (country -> SDG region, set of aggregate names).
+    """Takes the geographic tree and returns:
+        1. country -> SDG region (maps each country to its SDG region)
+        2. set of every aggregate name
 
     Aggregates are collected from every root grouping (SDG regions, LDC, SIDS, ...) so
     that a name like "Least Developed Countries" is never mistaken for a country.
@@ -76,11 +82,15 @@ def build_geo_lookup(tree):
             aggregates.add(node["geoAreaName"])
             for child in children:
                 walk(child, region)
-        else:
-            # Leaf: a country or territory. Only record a region if we are inside the
-            # SDG hierarchy; other roots would overwrite it with the wrong grouping.
-            if region is not None:
-                country_to_region.setdefault(node["geoAreaName"], region)
+        elif node.get("type") != "Country":
+            # A childless node is not automatically a country. The tree types a handful
+            # of leaves "Region" (Channel Islands) or "Other areas" (Belgium and
+            # Luxembourg) -- groupings with no children listed. 
+            aggregates.add(node["geoAreaName"])
+        elif region is not None:
+            # A real country. Only record a region if we are inside the SDG hierarchy;
+            # other roots would overwrite it with the wrong grouping.
+            country_to_region.setdefault(node["geoAreaName"], region)
 
     for root in tree:
         inside_sdg = root["geoAreaName"] == SDG_ROOT
@@ -92,11 +102,14 @@ def build_geo_lookup(tree):
 
 
 def load_tidy():
-    """Flatten every cached series into one long DataFrame."""
+    """Flatten every cached series into one long DataFrame.
+    Loops over the cached "EG_*.json" files in the RAW_DIR and turns each 
+    into a single DataFrame.
+    """
     frames = []
     for path in sorted(RAW_DIR.glob("EG_*.json")):
         cached = json.loads(path.read_text())
-        df = pd.json_normalize(cached["data"])
+        df = pd.json_normalize(cached["data"])      # flattens nested JSON structure
 
         # 7.2.1 and 7.3.1 have no urban/rural breakdown; give them the same schema
         # as the access series so every row can be read the same way.
@@ -112,7 +125,7 @@ def load_tidy():
         frames.append(df)
         print(f"  loaded {cached['series_code']:<13} {len(df):>6} rows")
 
-    return pd.concat(frames, ignore_index=True)
+    return pd.concat(frames, ignore_index=True)     # combines all loaded DataFrames into one
 
 
 def main():
@@ -129,14 +142,14 @@ def main():
 
     # The API returns values as strings; everything numeric must be coerced explicitly.
     for col in ("value", "lower_bound", "upper_bound"):
-        tidy[col] = pd.to_numeric(tidy[col], errors="coerce")
-    tidy["year"] = tidy["year"].astype(int)
-    tidy["area"] = tidy["area"].str.strip()
+        tidy[col] = pd.to_numeric(tidy[col], errors="coerce")   # convert string values to numeric, coercing errors to NaN
+    tidy["year"] = tidy["year"].astype(int)     # convert year to integer
+    tidy["area"] = tidy["area"].str.strip()     # remove leading and trailing whitespace from area names
 
-    tidy["region"] = tidy["area"].map(country_to_region)
-    tidy["area_type"] = "unclassified"
-    tidy.loc[tidy["area"].isin(aggregates), "area_type"] = "aggregate"
-    tidy.loc[tidy["region"].notna(), "area_type"] = "country"
+    tidy["region"] = tidy["area"].map(country_to_region)    # map each area to its corresponding region
+    tidy["area_type"] = "unclassified"     # initialize area_type as "unclassified" for all rows
+    tidy.loc[tidy["area"].isin(aggregates), "area_type"] = "aggregate"     # mark areas that are aggregates
+    tidy.loc[tidy["region"].notna(), "area_type"] = "country"     # mark areas that have a corresponding region as countries
 
     # --- QA -----------------------------------------------------------------
     print("\n" + "=" * 72)
@@ -182,9 +195,13 @@ def main():
               "mention on the limitations slide")
 
     # --- split and write ----------------------------------------------------
+    # Split the tidy DataFrame into countries, regions, and wide format for output
+
+    # Countries: filter to country rows, rename area -> country
     countries = tidy[tidy.area_type == "country"].copy()
     countries = countries.rename(columns={"area": "country"}).drop(columns="area_type")
 
+    # Regions: filter to world + regions + groupings, keep area and region columns
     region_names = [c["geoAreaName"] for root in tree if root["geoAreaName"] == SDG_ROOT
                     for c in root["children"]]
     regions = tidy[tidy.area.isin(["World"] + region_names + EXTRA_GROUPINGS)].copy()
@@ -219,7 +236,7 @@ def main():
     print(f"  wide table covers {wide.country.nunique()} countries, "
           f"{wide.year.min()}-{wide.year.max()}")
 
-    # --- spot-checks against known published values -------------------------
+    # --- validate against known published values -------------------------
     print("\n" + "=" * 72)
     print("SPOT-CHECKS")
     print("=" * 72)
@@ -232,6 +249,8 @@ def main():
         ("no aggregates leaked into the country table",
          not set(countries.country) & aggregates),
         ("every country has exactly one region", countries.region.notna().all()),
+        ("every country is typed 'Country' in the tree",
+         set(countries.country) <= set(country_to_region)),
     ]
     for label, passed in checks:
         print(f"  [{'PASS' if passed else 'FAIL'}] {label}")
