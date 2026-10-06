@@ -2889,36 +2889,6 @@ EG_FEC_RNEW,7.2.1,148,Chad,2021,69.89,,,ALLAREA,E,PERCENT,"Energy Balances, UN S
 EG_FEC_RNEW,7.2.1,148,Chad,2022,70.0,,,ALLAREA,E,PERCENT,"Energy Balances, UN Statistics Division (2025)",Sub-Saharan Africa
 EG_FEC_RNEW,7.2.1,148,Chad,2023,72.22,,,ALLAREA,E,PERCENT,"Energy Balances, UN Statistics Division (2025)",Sub-Saharan Africa
 EG_FEC_RNEW,7.2.1,148,Chad,2024,72.97,,,ALLAREA,E,PERCENT,"Energy Balances, UN Statistics Division (2025)",Sub-Saharan Africa
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2015,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2015,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2015,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2016,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2016,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2016,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2017,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2017,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2017,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2018,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2018,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2018,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2019,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2019,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2019,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2020,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2020,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2020,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2021,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2021,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2021,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2022,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2022,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2022,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2023,100.0,,,ALLAREA,M,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2023,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2023,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2024,100.0,,,ALLAREA,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2024,100.0,,,RURAL,E,PERCENT,World Bank,Europe and Northern America
-EG_ACS_ELEC,7.1.1,830,Channel Islands,2024,100.0,,,URBAN,E,PERCENT,World Bank,Europe and Northern America
 EG_ACS_ELEC,7.1.1,152,Chile,2015,99.7,,,ALLAREA,C,PERCENT,World Bank,Latin America and the Caribbean
 EG_ACS_ELEC,7.1.1,152,Chile,2015,100.0,,,RURAL,E,PERCENT,World Bank,Latin America and the Caribbean
 EG_ACS_ELEC,7.1.1,152,Chile,2015,99.9,,,URBAN,C,PERCENT,World Bank,Latin America and the Caribbean
