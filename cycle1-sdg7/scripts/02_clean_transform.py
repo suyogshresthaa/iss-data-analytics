@@ -131,6 +131,7 @@ def load_tidy():
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # --- Load ---------------------------------------------------------------
     print("Loading cached series")
     tidy = load_tidy()
     rows_in = len(tidy)
@@ -140,6 +141,7 @@ def main():
     print(f"\nGeography: {len(country_to_region)} countries in the SDG hierarchy, "
           f"{len(aggregates)} aggregate names")
 
+    # --- Clean --------------------------------------------------------------
     # The API returns values as strings; everything numeric must be coerced explicitly.
     for col in ("value", "lower_bound", "upper_bound"):
         tidy[col] = pd.to_numeric(tidy[col], errors="coerce")   # convert string values to numeric, coercing errors to NaN
