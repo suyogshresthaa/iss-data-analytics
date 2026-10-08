@@ -68,9 +68,9 @@ def trend_slope(group, column):
 def summarise(frame, key):
     """One row per area: base/latest levels, change, trend slope, 2030 projection.
 
-    The projection is a deliberately naive linear extrapolation of the fitted trend --
+    The projection is a deliberately naive linear extrapolation of the fitted trend -
     it answers "where does the current pace lead?", not "what will happen". Access
-    curves flatten as they approach 100%, so this flatters laggards and should be
+    curves flatten as they approach 100%, so this flatters laggards is intented to be
     presented as a pace check rather than a forecast.
     """
     rows = []
