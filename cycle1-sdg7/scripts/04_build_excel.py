@@ -1,23 +1,15 @@
 """
-Build the Cycle 1 Excel deliverable: outputs/sdg7_cycle1.xlsx
+Build the Cycle 1 Excel: outputs/sdg7_cycle1.xlsx
 
 Reads only data/processed/ -- never the API, never data/raw/ -- so the workbook is
 reproducible from the CSVs that the earlier scripts emit. Nothing in the workbook is
 hand-edited; re-running this script rebuilds it from scratch.
 
-Three tabs. The regional pivot and the data dictionary are deliberately NOT generated here -- Suyog builds that by hand
-in Excel. The regional pivot must come from data/processed/sdg7_regions.csv, NOT from the Data
-tab: the UN's regional figures are population-weighted, and averaging the countries on the Data
-tab gives a different and wrong answer.
-
-Three tabs:
+Four tabs:
   Data             country-year grain, as an Excel Table so a PivotTable can be inserted on it
   Top20_Gap        the two different questions side by side -- widest gap vs fastest-widening gap
+  Data_Dictionary  every column, its units, its source, and what is computed rather than reported
   QA               live checks against the source CSVs
-
-Nothing left in the workbook documents the sources, units or limitations -- that was the
-Data_Dictionary tab's job. Recover its text with:
-  git show 808af00:cycle1-sdg7/scripts/04_build_excel.py
 
 The derived columns are written as Excel *formulas*, not as values copied out of pandas, so a
 reviewer can click any gap figure and see the subtraction behind it.
@@ -215,6 +207,144 @@ def build_top20(ws, summary: pd.DataFrame) -> dict:
     return {"a_start": a_start, "a_last": a_last, "b_start": b_start, "b_last": b_last}
 
 
+def build_dictionary(ws, counts: dict):
+    ws.cell(row=1, column=1, value="Data dictionary and sources").font = TITLE_FONT
+    row = 3
+
+    ws.cell(row=row, column=1, value="1. What is in this workbook").font = SECTION_FONT
+    row += 1
+    header_row(ws, row, ["Tab", "Grain (one row is...)", "Rows", "What it is for"])
+    row += 1
+    for vals in [
+        ["Data", "one country-year", counts["data"],
+         "The full cleaned table. Formatted as an Excel Table named SDG7Data -- click inside it "
+         "and Insert > PivotTable to analyse it interactively."],
+        ["Top20_Gap", "one country", 40,
+         "The widest gaps and the fastest-widening gaps, kept as two separate blocks."],
+        ["Data_Dictionary", "one column or source", None, "This tab."],
+        ["QA", "one check", None,
+         "Live formulas that re-verify the figures against the Data tab whenever the file opens."],
+    ]:
+        write_row(ws, row, vals, border=True)
+        ws.cell(row=row, column=4).alignment = Alignment(wrap_text=True, vertical="top")
+        ws.row_dimensions[row].height = 30
+        row += 1
+
+    row += 1
+    ws.cell(row=row, column=1, value="2. Indicators (the four UN SDG 7 series used)").font = SECTION_FONT
+    row += 1
+    header_row(ws, row, ["Series code", "SDG indicator", "Official name", "Units"])
+    row += 1
+    for vals in [
+        [ELEC, "7.1.1", "Proportion of population with access to electricity, by urban/rural", "% of population"],
+        [COOK, "7.1.2", "Proportion of population with primary reliance on clean fuels and technology", "% of population"],
+        [RNEW, "7.2.1", "Renewable energy share in the total final energy consumption", "% of final consumption"],
+        [PRIM, "7.3.1", "Energy intensity level of primary energy", "MJ per constant 2021 PPP GDP"],
+    ]:
+        write_row(ws, row, vals, border=True)
+        ws.cell(row=row, column=3).alignment = Alignment(wrap_text=True, vertical="top")
+        row += 1
+
+    row += 1
+    ws.cell(row=row, column=1, value="3. Provenance").font = SECTION_FONT
+    row += 1
+    header_row(ws, row, ["Series code", "Custodian / data provider", "Retrieved", "Endpoint"])
+    row += 1
+    for code, src in [
+        (ELEC, "World Bank (via UN Statistics Division SDG database)"),
+        (COOK, "Global Health Observatory (GHO), World Health Organization (WHO)"),
+        (RNEW, "UN Statistics Division Energy Balances (2025); IEA (2025) World Energy Balances"),
+        (PRIM, "UN Statistics Division Energy Balances (2025); IEA (2025) World Energy Balances"),
+    ]:
+        write_row(ws, row, [code, src, RETRIEVED, f"{API}/Series/Data?seriesCode={code}"], border=True)
+        ws.cell(row=row, column=2).alignment = Alignment(wrap_text=True, vertical="top")
+        ws.row_dimensions[row].height = 28
+        row += 1
+
+    row += 1
+    ws.cell(row=row, column=1, value="4. Columns").font = SECTION_FONT
+    row += 1
+    header_row(ws, row, ["Column", "Definition", "Units", "Reported or computed?"])
+    row += 1
+    for vals in [
+        ["M49 code", "UN M49 numeric country code. The API publishes no ISO code, so this is the "
+                     "only machine identifier available.", "code", "Reported"],
+        ["Country", "UN long-form area name, unmodified. Some differ from everyday usage "
+                    "(\"Lao People's Democratic Republic\") and need aliasing in Tableau.", "text", "Reported"],
+        ["SDG region", "One of the 7 UN SDG regions, assigned from the API's GeoArea/Tree.",
+         "text", "Computed (02_clean_transform.py)"],
+        ["Electricity access (%)", "Share of population with access to electricity, all areas.",
+         "% of population", "Reported (7.1.1)"],
+        ["Clean cooking (%)", "Share of population relying primarily on clean fuels and technology "
+                              "for cooking, all areas. WHO rounds these to whole numbers.",
+         "% of population", "Reported (7.1.2)"],
+        ["Energy intensity (MJ/$ PPP)", "Primary energy per unit of GDP. Lower is more efficient.",
+         "MJ / constant 2021 PPP $", "Reported (7.3.1)"],
+        ["Renewable share (%)", "Renewables as a share of total final energy consumption.",
+         "% of final consumption", "Reported (7.2.1)"],
+        ["Cooking gap (pp)", "Electricity access minus clean cooking access. Positive means "
+                             "electricity is ahead. This is the project's signature metric.",
+         "percentage points", "Computed (in-cell formula)"],
+        ["Electricity urban-rural gap (pp)", "Urban electricity access minus rural, same country-year.",
+         "percentage points", "Computed (03_derive_metrics.py)"],
+        ["Clean cooking urban-rural gap (pp)", "Urban clean cooking access minus rural, same country-year.",
+         "percentage points", "Computed (03_derive_metrics.py)"],
+        ["Change 2015-2024 (pp)", "The 2024 value minus the 2015 value. A NEGATIVE change in a gap "
+                                  "column means the gap narrowed, which is an improvement.",
+         "percentage points", "Computed (in-cell formula)"],
+    ]:
+        write_row(ws, row, vals, border=True)
+        ws.cell(row=row, column=2).alignment = Alignment(wrap_text=True, vertical="top")
+        ws.row_dimensions[row].height = 30
+        row += 1
+
+    row += 1
+    ws.cell(row=row, column=1, value="5. Limitations (carried onto the Data Sources slide)").font = SECTION_FONT
+    row += 1
+    header_row(ws, row, ["Limitation", "Detail"])
+    row += 1
+    for vals in [
+        ["7.2.1 is sparse after 2022",
+         "The renewable-share series thins out badly in recent years -- only 129 areas report a 2024 "
+         "value. It is kept in the workbook for context but no trend claim rests on it."],
+        ["Clean cooking figures are modelled",
+         "WHO publishes 7.1.2 as a modelled estimate with uncertainty bounds, not a measurement. "
+         "Afghanistan's 2024 all-areas value of 30% carries a range of 15-48%. The bounds are in "
+         "sdg7_tidy.csv; they are deliberately not shown in the charts, which would be unreadable."],
+        ["Electricity has no uncertainty bounds",
+         "Only the WHO series publishes them, so the two indicators are not equally precise even "
+         "though they are plotted on the same axis."],
+        ["Three year-on-year jumps exceed 20 pp",
+         "Afghanistan 2015-16 (+26.2 pp), Papua New Guinea 2023-24 (+22.8 pp) and Cambodia 2016-17 "
+         "(+20.3 pp) in electricity access. These are revisions in the source data, not cleaning "
+         "errors -- see the QA tab."],
+        ["34 countries have no cooking gap at all",
+         "Small territories (Aruba, Bermuda, Hong Kong, American Samoa and similar) appear in the "
+         "electricity series but not in clean cooking, so no gap can be computed. They are kept in "
+         "the Data tab with blank cells rather than dropped, so the absence is visible."],
+        ["Five areas drop out entirely",
+         "French Guiana, Guadeloupe, Martinique, Mayotte and Reunion have no usable values; they are "
+         "reported within France."],
+        ["Kosovo has no 2024 row",
+         "227 of the 228 countries carry a 2024 observation. Kosovo's series ends in 2023."],
+        ["Regional figures cannot be rebuilt from the Data tab",
+         "They are population-weighted aggregates published by the UN. Averaging the countries on "
+         "the Data tab gives a different -- and wrong -- answer."],
+        ["The 2030 projection is a pace check, not a forecast",
+         "Where it appears, it extrapolates the fitted 2015-2024 straight line. Access curves "
+         "flatten near 100%, so it flatters slow movers, and countries with no measurable trend "
+         "are excluded rather than assigned an arrival date."],
+    ]:
+        write_row(ws, row, vals, border=True)
+        ws.cell(row=row, column=2).alignment = Alignment(wrap_text=True, vertical="top")
+        ws.row_dimensions[row].height = 42
+        row += 1
+
+    ws.cell(row=row + 1, column=1, value=(
+        f"Generated by scripts/04_build_excel.py on {date.today().isoformat()} from "
+        f"data/processed/. Do not edit cells by hand -- re-run the script instead.")).font = NOTE_FONT
+    set_widths(ws, [34, 64, 24, 30])
+
 def build_qa(ws, top: dict, expect: dict):
     """Live checks. Every 'In workbook' figure is a formula reading the other tabs."""
     ws.cell(row=1, column=1, value="QA: live checks against the Data tab").font = TITLE_FONT
@@ -386,6 +516,7 @@ def main() -> int:
 
     build_data(ws_data, metrics)
     top = build_top20(wb.create_sheet("Top20_Gap"), summary)
+    build_dictionary(wb.create_sheet("Data_Dictionary"), {"data": expect["rows"]})
     build_qa(wb.create_sheet("QA"), top, expect)
 
     for ws in wb.worksheets:
@@ -397,13 +528,8 @@ def main() -> int:
     print(f"wrote {OUT.relative_to(ROOT)}")
     print(f"  Data             {expect['rows']:>5} rows x 11 cols  (Excel Table 'SDG7Data', A1:K{DATA_LAST})")
     print(f"  Top20_Gap        {20:>5} widest + {20} fastest-widening")
+    print(f"  Data_Dictionary        4 indicators, 11 columns, 9 limitations")
     print(f"  QA                    live checks in 6 sections")
-    print()
-    print("No regional pivot and no data dictionary: both are built by hand.")
-    print("The pivot must come from data/processed/sdg7_regions.csv -- NOT from")
-    print("the Data tab, whose countries cannot be averaged into a correct")
-    print("regional figure. Nothing in the workbook now records the sources,")
-    print("units or limitations.")
     print()
     print("openpyxl writes formulas without cached values, so the formula cells read as")
     print("empty until Excel (or LibreOffice) opens and recalculates the file.")
