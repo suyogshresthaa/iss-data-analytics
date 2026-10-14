@@ -1,0 +1,109 @@
+SPEAKER NOTES — SDG 7, Presentation 1
+Suyog Shrestha · Knox College · General Assembly, 15 October 2026
+Deck: sdg7_cycle1_presentation.pdf (9 slides)
+
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 1 — Title                                                      
+────────────────────────────────────────────────────────────────────────────
+
+"My name is Suyog Shrestha from Knox College. Today I will be presenting 
+on SDG 7 — Affordable and Clean Energy — and a question about whether 
+clean cooking has kept pace with electricity."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 2 — Research Question                                          
+────────────────────────────────────────────────────────────────────────────
+
+"Since 2015, electricity access has expanded rapidly across the developing
+world. My question was whether clean cooking kept pace — and where the gap
+is widest and still growing.
+
+I'll be honest that this is not the question I started with. I began by
+assuming electrification was outrunning clean cooking everywhere. The data
+disproved that. So I rewrote the question rather than the finding."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 3 — SDG 7                                                      
+────────────────────────────────────────────────────────────────────────────
+
+"SDG 7 has two access targets. 7.1.1 is the share of people with
+electricity. 7.1.2 is the share who cook with clean fuels.
+
+Subtracting one from the other gives what I call the cooking gap, measured
+in percentage points. A country at 97 percent electricity and 10 percent
+clean cooking has a gap of 87 points. The measure asks one simple thing:
+did the two forms of energy access arrive together?"
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 4 — Where the Data Comes From                                  
+────────────────────────────────────────────────────────────────────────────
+
+"Everything comes from one place — the UN SDG Global Indicators Database,
+pulled through its version 5 API. The underlying providers are the World
+Bank for electricity and the World Health Organization for clean cooking.
+
+2015 to 2024. 228 countries. 16,216 rows after cleaning. Python for the
+extraction and cleaning, Excel for the deliverable workbook, Tableau for
+the visuals.
+
+One caveat worth mentioning is that the clean cooking figures are modelled
+estimates with uncertainty bounds, not direct measurements. And 34 mostly
+small territories report electricity but not clean cooking, so they have no
+gap at all."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 5 — Finding 1 of 5                                             
+────────────────────────────────────────────────────────────────────────────
+
+"Globally, the answer is yes. Clean cooking rose 11 points since 2015.
+Electricity rose 4.9. The gap narrowed from 23 points to 17.
+
+Electricity looks slow only because wealthy regions are already near 100
+percent and have nowhere left to climb."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 6 — Finding 2 of 5                                             
+────────────────────────────────────────────────────────────────────────────
+
+"But that global average hides a reversal. Four regions narrowed their gap.
+Three widened it.
+
+Sub-Saharan Africa is the only region that is both the widest and still
+widening — 32.7 points, up almost 8 since 2015. It is moving in the
+opposite direction to the rest of the world."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 7 — Finding 3 of 5                                             
+────────────────────────────────────────────────────────────────────────────
+
+"So where is the gap widest right now? Laos. 97 percent of people have
+electricity. 10 percent cook with clean fuels. An 86-point gap.
+
+Comoros follows at 80.7, Timor-Leste at 75.3. The widest gaps cluster in
+Asia and the Pacific."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 8 — Finding 4 of 5                                             
+────────────────────────────────────────────────────────────────────────────
+
+"But widest and widening are different questions, and they name different
+countries. Only three of fifteen appear on both lists.
+
+Rwanda's gap grew 41 points in nine years. Twelve of the fifteen
+fastest-widening countries are in Sub-Saharan Africa.
+
+Had I asked only where the gap is widest, this would have been a
+presentation about Laos — and I would have missed the reversal entirely."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 9 — Finding 5 of 5                                             
+────────────────────────────────────────────────────────────────────────────
+
+"Finally, the national average hides the problem inside countries too.
+Zimbabwe reports 37 percent nationally, which looks unremarkable in a
+ranking. That is 80 percent in the cities and 8 percent in the countryside.
+
+The deficit lives inside countries, not only between them. Electrification
+has been the easier win. Clean cooking is the one still being lost — and it
+is being lost in rural Sub-Saharan Africa."
