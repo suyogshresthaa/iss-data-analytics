@@ -21,8 +21,5 @@ cycle*/data/raw/*
 # Claude
 .claude/
 
-# Outputs
-**/test_logs/
-
 # Others
 project_template.pdf

@@ -1,0 +1,45 @@
+Loading cached series
+  loaded EG_ACS_ELEC     7530 rows
+  loaded EG_EGY_CLEAN    6510 rows
+  loaded EG_EGY_PRIM     2568 rows
+  loaded EG_FEC_RNEW     2568 rows
+
+Geography: 262 countries in the SDG hierarchy, 186 aggregate names
+
+========================================================================
+QA
+========================================================================
+  country         16696 rows across  233 areas
+  aggregate        2480 rows across   41 areas
+  unclassified        0 rows across    0 areas
+
+  missing values dropped: 560 of 19176 rows (2.9%)
+    EG_EGY_PRIM     284 of  2568 (11.1%)
+    EG_ACS_ELEC     186 of  7530 (2.5%)
+    EG_FEC_RNEW      90 of  2568 (3.5%)
+
+  year-on-year jumps over 20 pp in access indicators: 3
+    Afghanistan EG_ACS_ELEC 2015->2016: +26.2 pp (to 97.7)
+    Papua New Guinea EG_ACS_ELEC 2023->2024: +22.8 pp (to 43.3)
+    Cambodia EG_ACS_ELEC 2016->2017: +20.3 pp (to 89.1)
+    -> real revisions in the source data, not cleaning errors; keep but mention on the limitations slide
+
+========================================================================
+OUTPUTS
+========================================================================
+  sdg7_tidy.csv         16216 rows x 13 cols
+  sdg7_regions.csv        858 rows x 13 cols
+  sdg7_wide.csv          2279 rows x  8 cols
+
+  rows in: 19176  ->  countries: 16216  regions: 858  (aggregates and territories held back)
+  wide table covers 228 countries, 2015-2024
+
+========================================================================
+SPOT-CHECKS
+========================================================================
+  [PASS] Nepal 2023 clean cooking, urban = 63
+  [PASS] Nepal 2023 clean cooking, rural = 24
+  [PASS] Nepal 2023 clean cooking, all areas = 44
+  [PASS] no aggregates leaked into the country table
+  [PASS] every country has exactly one region
+  [PASS] every country is typed 'Country' in the tree

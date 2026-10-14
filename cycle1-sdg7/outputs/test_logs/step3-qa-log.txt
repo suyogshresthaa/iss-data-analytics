@@ -1,0 +1,45 @@
+============================================================================
+OUTPUTS
+============================================================================
+  sdg7_country_metrics.csv      2279 rows x 11 cols
+  sdg7_country_summary.csv       228 rows x 20 cols
+  sdg7_region_summary.csv         11 rows x 18 cols
+
+============================================================================
+COVERAGE: 194 of 228 countries have both 2015 and 2024 values
+============================================================================
+  gap widened: 69   narrowed: 94   unchanged: 31
+  on track for universal clean cooking by 2030: 65 countries
+  on track for universal electricity by 2030: 125 countries
+
+  WIDEST gap 2024:
+    Lao People's Democratic Republic    86.5 pp   (Eastern and South-Eastern Asia)
+    Comoros                             80.7 pp   (Sub-Saharan Africa)
+    Timor-Leste                         75.3 pp   (Eastern and South-Eastern Asia)
+    Kiribati                            73.7 pp   (Oceania)
+    Sao Tome and Principe               70.7 pp   (Sub-Saharan Africa)
+
+  FASTEST WIDENING 2015-2024:
+    Rwanda                             +41.2 pp  (Sub-Saharan Africa)
+    Uganda                             +35.8 pp  (Sub-Saharan Africa)
+    Zambia                             +26.5 pp  (Sub-Saharan Africa)
+    Benin                              +26.4 pp  (Sub-Saharan Africa)
+    Ethiopia                           +24.6 pp  (Sub-Saharan Africa)
+
+  REGIONS by 2024 gap:
+    Sub-Saharan Africa                  32.7 pp  ( +7.9 since 2015)
+    Central and Southern Asia           27.1 pp  (-12.7 since 2015)
+    Eastern and South-Eastern Asia      11.8 pp  (-15.4 since 2015)
+    Oceania                             11.3 pp  ( +5.1 since 2015)
+    Latin America and the Caribbean      8.0 pp  ( -2.3 since 2015)
+    Northern Africa and Western Asia     5.3 pp  ( +2.4 since 2015)
+    Europe and Northern America          2.0 pp  ( -1.3 since 2015)
+
+============================================================================
+SPOT-CHECKS
+============================================================================
+  [PASS] World gap 2015 = 23 pp
+  [PASS] World gap 2024 = 17 pp
+  [PASS] Sub-Saharan Africa gap widened
+  [PASS] cooking_gap present exactly where both inputs are
+  [PASS] no country ranks top-5 on both widest and widening
