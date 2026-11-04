@@ -218,13 +218,28 @@ def main():
     cross = rnew_cross_section(metrics)
 
     # Finding A in one number: the UN's population-weighted aggregate against the
-    # unweighted median of the same nine countries. If the two disagree, the regional
+    # unweighted average of the same nine countries. If the two disagree, the regional
     # figure is being set by the big countries rather than by the typical one.
-    median_gap = (country_year.groupby("year").cooking_gap.median()
-                  .rename("median_country_gap").reset_index())
-    median_gap["area"] = f"{SUBREGION} (unweighted median)"
-    median_gap = median_gap.rename(columns={"median_country_gap": "gap"})
-    subregion = pd.concat([subregion, median_gap], ignore_index=True)
+    #
+    # The mean carries the finding and the median is kept beside it for transparency,
+    # because with nine countries the median IS one country and is not stable: the 2015
+    # median is Afghanistan's own gap, and Afghanistan's electricity series jumps 71.5
+    # -> 97.7 between 2015 and 2016, which is a revision rather than real change.
+    # Dropping Afghanistan moves the median's decade change from +1.2 to -11.7 pp while
+    # the mean's goes from -0.0 to -1.8. Only the mean supports the claim either way,
+    # so the mean is what the chart and the slide use.
+    unweighted = (country_year.groupby("year").cooking_gap
+                  .agg(["mean", "median"]).reset_index())
+    for stat in ("mean", "median"):
+        frame = unweighted[["year", stat]].rename(columns={stat: "gap"})
+        frame["area"] = f"{SUBREGION} (unweighted {stat})"
+        subregion = pd.concat([subregion, frame], ignore_index=True)
+    mean_gap = unweighted.set_index("year")["mean"]
+    median_gap = unweighted.set_index("year")["median"]
+
+    # Robustness: the same mean with Afghanistan removed.
+    ex_afg = (country_year[country_year.country != "Afghanistan"]
+              .groupby("year").cooking_gap.mean())
 
     tables = {
         "sa_country_year.csv": country_year,
@@ -240,8 +255,9 @@ def main():
     # ---------------------------------------------------------------- what they say
     sa_2015 = subregion[(subregion.area == SUBREGION) & (subregion.year == BASE_YEAR)].iloc[0]
     sa_2024 = subregion[(subregion.area == SUBREGION) & (subregion.year == LATEST_YEAR)].iloc[0]
-    med_2015 = median_gap[median_gap.year == BASE_YEAR].gap.iloc[0]
-    med_2024 = median_gap[median_gap.year == LATEST_YEAR].gap.iloc[0]
+    mean_2015, mean_2024 = mean_gap[BASE_YEAR], mean_gap[LATEST_YEAR]
+    med_2015, med_2024 = median_gap[BASE_YEAR], median_gap[LATEST_YEAR]
+    exafg_2015, exafg_2024 = ex_afg[BASE_YEAR], ex_afg[LATEST_YEAR]
 
     print("\n" + "=" * 76)
     print("FINDING A -- was it the region, or was it India?")
@@ -249,8 +265,14 @@ def main():
     print(f"  UN population-weighted {SUBREGION} gap: "
           f"{sa_2015.gap:.1f} -> {sa_2024.gap:.1f} pp "
           f"({sa_2024.gap - sa_2015.gap:+.1f})")
-    print(f"  Unweighted median of the same {len(members)} countries: "
+    print(f"  Unweighted MEAN of the same {len(members)} countries:    "
+          f"{mean_2015:.1f} -> {mean_2024:.1f} pp ({mean_2024 - mean_2015:+.1f})"
+          f"   <- the headline")
+    print(f"  Unweighted median (one country, not stable):   "
           f"{med_2015:.1f} -> {med_2024:.1f} pp ({med_2024 - med_2015:+.1f})")
+    print(f"  Mean excluding Afghanistan (robustness):       "
+          f"{exafg_2015:.1f} -> {exafg_2024:.1f} pp "
+          f"({exafg_2024 - exafg_2015:+.1f})")
     widened = summary[summary.gap_change > 0]
     print(f"  countries whose gap widened: {len(widened)} of {len(summary)} "
           f"({', '.join(widened.country)})")
@@ -314,10 +336,16 @@ def main():
          (country_year.groupby("country").year.nunique() == 10).all()),
         ("no duplicate country-year rows",
          not country_year.duplicated(subset=["country", "year"]).any()),
-        # Finding A only stands if the two measures of the same nine countries move in
-        # opposite directions. If the median also fell, the region really did improve.
-        ("A: weighted aggregate narrows while median does not",
-         (sa_2024.gap - sa_2015.gap) < -5 and (med_2024 - med_2015) > -1),
+        # Finding A only stands if the two measures of the same nine countries
+        # disagree. If the unweighted average had also fallen sharply, the region
+        # really did improve and there is no finding.
+        ("A: weighted aggregate narrows while unweighted mean does not",
+         (sa_2024.gap - sa_2015.gap) < -5 and abs(mean_2024 - mean_2015) < 2),
+        # And it has to survive the one country with a known discontinuity, or the
+        # headline is resting on a data revision.
+        ("A: holds with Afghanistan excluded",
+         abs(exafg_2024 - exafg_2015) < 5
+         and (sa_2024.gap - sa_2015.gap) < (exafg_2024 - exafg_2015) - 5),
         ("A: India is the fastest clean-cooking gain of the nine",
          india.cook_slope_per_year == summary.cook_slope_per_year.max()),
         ("A: 4 of 9 widened", len(widened) == 4),

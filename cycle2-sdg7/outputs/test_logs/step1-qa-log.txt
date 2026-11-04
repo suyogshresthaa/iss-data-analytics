@@ -3,14 +3,16 @@ Southern Asia membership from the geo tree (9): Afghanistan, Bangladesh, Bhutan,
 WROTE
   sa_country_year.csv             90 rows x 10 cols
   sa_country_summary.csv           9 rows x 25 cols
-  sa_subregion_year.csv           50 rows x  5 cols
+  sa_subregion_year.csv           60 rows x  5 cols
   rnew_vs_cooking_2023.csv       192 rows x  6 cols
 
 ============================================================================
 FINDING A -- was it the region, or was it India?
 ============================================================================
   UN population-weighted Southern Asia gap: 40.4 -> 28.1 pp (-12.3)
-  Unweighted median of the same 9 countries: 43.5 -> 44.7 pp (+1.2)
+  Unweighted MEAN of the same 9 countries:    35.8 -> 35.8 pp (-0.0)   <- the headline
+  Unweighted median (one country, not stable):   43.5 -> 44.7 pp (+1.2)
+  Mean excluding Afghanistan (robustness):       34.8 -> 33.0 pp (-1.8)
   countries whose gap widened: 4 of 9 (Bangladesh, Sri Lanka, Afghanistan, Nepal)
 
   country                       gap15  gap24  change  cook24  pp/yr
@@ -67,7 +69,8 @@ SPOT-CHECKS
   [PASS] parent region 2015 gap matches Cycle 1's 39.8 pp
   [PASS] every country-year has exactly 10 years
   [PASS] no duplicate country-year rows
-  [PASS] A: weighted aggregate narrows while median does not
+  [PASS] A: weighted aggregate narrows while unweighted mean does not
+  [PASS] A: holds with Afghanistan excluded
   [PASS] A: India is the fastest clean-cooking gain of the nine
   [PASS] A: 4 of 9 widened
   [PASS] B: electricity urban-rural gap under 2 pp in 5+ countries
