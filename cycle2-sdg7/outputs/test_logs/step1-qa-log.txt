@@ -1,0 +1,79 @@
+Southern Asia membership from the geo tree (9): Afghanistan, Bangladesh, Bhutan, India, Iran (Islamic Republic of), Maldives, Nepal, Pakistan, Sri Lanka
+
+WROTE
+  sa_country_year.csv             90 rows x 10 cols
+  sa_country_summary.csv           9 rows x 25 cols
+  sa_subregion_year.csv           50 rows x  5 cols
+  rnew_vs_cooking_2023.csv       192 rows x  6 cols
+
+============================================================================
+FINDING A -- was it the region, or was it India?
+============================================================================
+  UN population-weighted Southern Asia gap: 40.4 -> 28.1 pp (-12.3)
+  Unweighted median of the same 9 countries: 43.5 -> 44.7 pp (+1.2)
+  countries whose gap widened: 4 of 9 (Bangladesh, Sri Lanka, Afghanistan, Nepal)
+
+  country                       gap15  gap24  change  cook24  pp/yr
+  Bangladesh                     56.0   70.5   +14.5      29   1.28
+  Sri Lanka                      66.3   69.0    +2.7      31   0.37
+  Afghanistan                    43.5   57.8   +14.3      30   0.18
+  Nepal                          48.0   52.9    +4.9      45   1.22
+  Pakistan                       50.0   44.7    -5.3      51   1.15
+  India                          39.0   18.9   -20.1      81   3.56
+  Bhutan                         15.4    7.0    -8.4      93   1.35
+  Iran (Islamic Republic of)      2.0    1.0    -1.0      99   0.10
+  Maldives                        1.8    0.0    -1.8     100   0.20
+
+============================================================================
+FINDING B -- the grid reached the villages; clean cooking did not
+============================================================================
+  country                       elec u-r  cook u-r   ratio
+  Afghanistan                       12.4      64.0     5.2
+  Pakistan                           4.4      61.0    13.9
+  Bangladesh                        -0.1      55.0       -
+  Sri Lanka                          0.0      54.0       -
+  Nepal                              5.5      39.0     7.1
+  India                              0.1      27.0       -
+  Bhutan                             0.0      10.0       -
+  Iran (Islamic Republic of)         0.0       2.0       -
+  Maldives                           0.0       0.0       -
+
+============================================================================
+FINDING C -- what the renewable-share indicator is counting (2023)
+============================================================================
+  global n=192   pearson=-0.711   spearman=-0.644
+  country                       renew%   cook%
+  Nepal                           74.0      44
+  Sri Lanka                       55.5      32
+  Bhutan                          48.7      92
+  Pakistan                        44.1      50
+  India                           32.8      78
+  Bangladesh                      23.6      28
+  Afghanistan                     17.9      30
+  Maldives                         1.4     100
+  Iran (Islamic Republic of)       0.9      99
+
+  clean cooking has not gained since:
+    Sri Lanka                   2018   cook 2024 = 31%
+    Afghanistan                 2017   cook 2024 = 30%
+    Iran (Islamic Republic of)  2017   cook 2024 = 99% (at ceiling)
+    Maldives                    2019   cook 2024 = 100% (at ceiling)
+
+============================================================================
+SPOT-CHECKS
+============================================================================
+  [PASS] Southern Asia has 9 countries, Central Asia 5
+  [PASS] sub-aggregates partition Cycle 1's parent region
+  [PASS] parent region 2015 gap matches Cycle 1's 39.8 pp
+  [PASS] every country-year has exactly 10 years
+  [PASS] no duplicate country-year rows
+  [PASS] A: weighted aggregate narrows while median does not
+  [PASS] A: India is the fastest clean-cooking gain of the nine
+  [PASS] A: 4 of 9 widened
+  [PASS] B: electricity urban-rural gap under 2 pp in 5+ countries
+  [PASS] B: cooking urban-rural gap over 25 pp in 6+ countries
+  [PASS] B: cooking split exceeds electricity split wherever cooking is incomplete
+  [PASS] C: 2023 cross-section covers 190+ countries
+  [PASS] C: correlation negative on both Pearson and Spearman
+  [PASS] C: Nepal is high-renewable and low-clean-cooking
+  [PASS] C: Sri Lanka at universal electricity but stalled cooking
