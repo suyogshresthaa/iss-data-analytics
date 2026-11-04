@@ -1,0 +1,193 @@
+country,region,renewable_share,clean_cooking,electricity,in_southern_asia
+Democratic Republic of the Congo,Sub-Saharan Africa,95.89,4.0,22.1,False
+Liberia,Sub-Saharan Africa,92.94,1.0,32.5,False
+Gabon,Sub-Saharan Africa,90.88,93.0,94.1,False
+Somalia,Sub-Saharan Africa,89.27,5.0,50.3,False
+Central African Republic,Sub-Saharan Africa,88.97,1.0,17.6,False
+Ethiopia,Sub-Saharan Africa,88.87,7.0,55.4,False
+Uganda,Sub-Saharan Africa,88.18,2.0,51.5,False
+Malawi,Sub-Saharan Africa,85.67,2.0,15.6,False
+Haiti,Latin America and the Caribbean,84.9,5.0,51.3,False
+Guinea-Bissau,Sub-Saharan Africa,84.6,2.0,40.5,False
+Madagascar,Sub-Saharan Africa,84.13,2.0,39.4,False
+Iceland,Europe and Northern America,82.69,100.0,100.0,False
+Burundi,Sub-Saharan Africa,81.88,0.0,11.6,False
+Zambia,Sub-Saharan Africa,80.43,10.0,51.1,False
+Cameroon,Sub-Saharan Africa,79.99,31.0,72.0,False
+Eritrea,Sub-Saharan Africa,79.56,20.0,54.4,False
+Rwanda,Sub-Saharan Africa,78.98,8.0,63.9,False
+United Republic of Tanzania,Sub-Saharan Africa,78.06,10.0,48.3,False
+Mozambique,Sub-Saharan Africa,76.13,7.0,36.0,False
+Nepal,Central and Southern Asia,74.02,44.0,94.0,True
+Niger,Sub-Saharan Africa,73.63,6.0,20.1,False
+Chad,Sub-Saharan Africa,72.22,11.0,12.0,False
+Togo,Sub-Saharan Africa,71.69,14.0,59.2,False
+Sierra Leone,Sub-Saharan Africa,70.36,1.0,35.5,False
+Sudan,Northern Africa and Western Asia,70.3,48.0,66.0,False
+Kenya,Sub-Saharan Africa,68.6,30.0,76.2,False
+Congo,Sub-Saharan Africa,67.48,38.0,51.3,False
+Guinea,Sub-Saharan Africa,67.11,2.0,51.1,False
+Eswatini,Sub-Saharan Africa,65.06,55.0,86.4,False
+Mali,Sub-Saharan Africa,63.42,1.0,54.5,False
+Paraguay,Latin America and the Caribbean,62.68,75.0,99.8,False
+Guatemala,Latin America and the Caribbean,62.49,49.0,100.0,False
+Lesotho,Sub-Saharan Africa,61.08,56.0,57.3,False
+Norway,Europe and Northern America,61.03,100.0,100.0,False
+Uruguay,Latin America and the Caribbean,60.47,99.0,100.0,False
+Burkina Faso,Sub-Saharan Africa,60.42,16.0,21.7,False
+Myanmar,Eastern and South-Eastern Asia,60.02,44.0,76.8,False
+Sweden,Europe and Northern America,58.92,100.0,100.0,False
+Lao People's Democratic Republic,Eastern and South-Eastern Asia,56.34,9.0,96.5,False
+Sri Lanka,Central and Southern Asia,55.5,32.0,100.0,True
+Zimbabwe,Sub-Saharan Africa,54.64,36.0,62.0,False
+Côte d'Ivoire,Sub-Saharan Africa,54.54,46.0,72.4,False
+Nigeria,Sub-Saharan Africa,52.67,26.0,61.2,False
+Nicaragua,Latin America and the Caribbean,51.61,62.0,88.3,False
+Gambia,Sub-Saharan Africa,50.97,3.0,66.9,False
+Finland,Europe and Northern America,50.76,100.0,100.0,False
+Brazil,Latin America and the Caribbean,50.18,97.0,99.8,False
+Angola,Sub-Saharan Africa,49.91,54.0,51.1,False
+Papua New Guinea,Oceania,49.91,11.0,20.5,False
+Benin,Sub-Saharan Africa,48.89,8.0,57.0,False
+Bhutan,Central and Southern Asia,48.71,92.0,100.0,True
+Latvia,Europe and Northern America,47.36,92.0,100.0,False
+Albania,Europe and Northern America,45.57,88.0,100.0,False
+Pakistan,Central and Southern Asia,44.14,50.0,95.6,True
+Kiribati,Oceania,41.81,21.0,95.9,False
+Denmark,Europe and Northern America,40.59,100.0,100.0,False
+Honduras,Latin America and the Caribbean,40.54,55.0,95.6,False
+Sao Tome and Principe,Sub-Saharan Africa,40.35,6.0,81.3,False
+Estonia,Europe and Northern America,40.14,96.0,100.0,False
+Cambodia,Eastern and South-Eastern Asia,40.06,53.0,95.0,False
+Austria,Europe and Northern America,39.95,96.0,100.0,False
+Bosnia and Herzegovina,Europe and Northern America,39.47,64.0,100.0,False
+Montenegro,Europe and Northern America,38.53,72.0,100.0,False
+Lithuania,Europe and Northern America,37.5,99.0,100.0,False
+Djibouti,Sub-Saharan Africa,37.46,43.0,65.2,False
+Comoros,Sub-Saharan Africa,37.09,10.0,89.8,False
+Tajikistan,Central and Southern Asia,36.54,88.0,100.0,False
+Portugal,Europe and Northern America,35.42,99.0,100.0,False
+Ghana,Sub-Saharan Africa,35.24,33.0,89.5,False
+Solomon Islands,Oceania,34.35,13.0,81.3,False
+Botswana,Sub-Saharan Africa,34.08,70.0,76.0,False
+South Sudan,Sub-Saharan Africa,33.65,0.0,5.4,False
+India,Central and Southern Asia,32.84,78.0,99.5,True
+Costa Rica,Latin America and the Caribbean,32.26,97.0,100.0,False
+Samoa,Oceania,31.5,61.0,100.0,False
+Chile,Latin America and the Caribbean,31.18,95.0,100.0,False
+Namibia,Sub-Saharan Africa,30.45,45.0,56.7,False
+New Zealand,Oceania,30.32,99.0,100.0,False
+Croatia,Europe and Northern America,30.21,96.0,100.0,False
+Senegal,Sub-Saharan Africa,29.87,37.0,74.2,False
+Kyrgyzstan,Central and Southern Asia,29.32,81.0,100.0,False
+Switzerland,Europe and Northern America,28.61,100.0,100.0,False
+Colombia,Latin America and the Caribbean,27.69,92.0,98.7,False
+Philippines,Eastern and South-Eastern Asia,27.32,62.0,98.0,False
+Venezuela (Bolivarian Republic of),Latin America and the Caribbean,27.18,91.0,100.0,False
+Serbia,Europe and Northern America,27.14,88.0,100.0,False
+Fiji,Oceania,26.23,59.0,99.3,False
+Peru,Latin America and the Caribbean,25.83,92.0,96.2,False
+Viet Nam,Eastern and South-Eastern Asia,24.49,90.0,99.8,False
+Luxembourg,Europe and Northern America,24.37,100.0,100.0,False
+Romania,Europe and Northern America,23.96,96.0,100.0,False
+Republic of Moldova,Europe and Northern America,23.64,98.0,100.0,False
+Bangladesh,Central and Southern Asia,23.56,28.0,99.5,True
+Canada,Europe and Northern America,23.53,100.0,100.0,False
+Greece,Europe and Northern America,23.29,100.0,100.0,False
+Slovenia,Europe and Northern America,23.16,98.0,100.0,False
+Cabo Verde,Sub-Saharan Africa,22.85,87.0,98.6,False
+Spain,Europe and Northern America,21.49,97.0,100.0,False
+Georgia,Northern Africa and Western Asia,21.3,94.0,100.0,False
+Germany,Europe and Northern America,21.23,100.0,100.0,False
+Panama,Latin America and the Caribbean,21.03,94.0,97.0,False
+Mauritania,Sub-Saharan Africa,20.87,55.0,50.3,False
+Vanuatu,Oceania,20.73,20.0,61.6,False
+Bulgaria,Europe and Northern America,20.28,98.0,100.0,False
+Thailand,Eastern and South-Eastern Asia,19.79,88.0,100.0,False
+North Macedonia,Europe and Northern America,19.45,86.0,100.0,False
+Italy,Europe and Northern America,18.5,99.0,100.0,False
+France,Europe and Northern America,18.4,100.0,100.0,False
+Hungary,Europe and Northern America,18.34,99.0,100.0,False
+Andorra,Europe and Northern America,18.32,100.0,100.0,False
+Belize,Latin America and the Caribbean,17.89,88.0,99.6,False
+Afghanistan,Central and Southern Asia,17.89,30.0,85.3,True
+Czechia,Europe and Northern America,17.23,99.0,100.0,False
+Poland,Europe and Northern America,17.14,98.0,100.0,False
+Ecuador,Latin America and the Caribbean,16.71,95.0,98.7,False
+Indonesia,Eastern and South-Eastern Asia,16.69,89.0,99.4,False
+Lebanon,Northern Africa and Western Asia,16.58,90.0,100.0,False
+Ireland,Europe and Northern America,16.4,100.0,100.0,False
+Slovakia,Europe and Northern America,16.4,99.0,100.0,False
+Suriname,Latin America and the Caribbean,16.32,94.0,99.6,False
+Cyprus,Northern Africa and Western Asia,16.3,99.0,100.0,False
+Netherlands (Kingdom of the),Europe and Northern America,15.91,100.0,100.0,False
+El Salvador,Latin America and the Caribbean,15.54,95.0,98.3,False
+United Kingdom of Great Britain and Northern Ireland,Europe and Northern America,15.23,100.0,100.0,False
+Belgium,Europe and Northern America,14.82,100.0,100.0,False
+Türkiye,Northern Africa and Western Asia,14.64,98.0,100.0,False
+Australia,Oceania,14.38,100.0,100.0,False
+China,Eastern and South-Eastern Asia,14.21,89.0,100.0,False
+Dominican Republic,Latin America and the Caribbean,13.63,93.0,99.6,False
+Bolivia (Plurinational State of),Latin America and the Caribbean,13.28,90.0,99.8,False
+Democratic People's Republic of Korea,Eastern and South-Eastern Asia,13.16,20.0,57.5,False
+United States of America,Europe and Northern America,12.25,100.0,100.0,False
+Tunisia,Northern Africa and Western Asia,12.11,100.0,100.0,False
+Marshall Islands,Oceania,12.1,79.0,100.0,False
+Ukraine,Europe and Northern America,11.98,96.0,100.0,False
+Argentina,Latin America and the Caribbean,11.85,100.0,100.0,False
+Morocco,Northern Africa and Western Asia,11.66,97.0,100.0,False
+Mexico,Latin America and the Caribbean,11.06,87.0,99.7,False
+Jordan,Northern Africa and Western Asia,10.99,100.0,100.0,False
+Armenia,Northern Africa and Western Asia,10.14,99.0,100.0,False
+Timor-Leste,Eastern and South-Eastern Asia,9.78,17.0,100.0,False
+Japan,Eastern and South-Eastern Asia,9.68,100.0,100.0,False
+Jamaica,Latin America and the Caribbean,9.41,93.0,97.7,False
+Guyana,Latin America and the Caribbean,9.37,76.0,98.9,False
+Grenada,Latin America and the Caribbean,9.23,96.0,94.4,False
+Cuba,Latin America and the Caribbean,9.22,96.0,100.0,False
+Saint Lucia,Latin America and the Caribbean,9.0,98.0,100.0,False
+Cook Islands,Oceania,9.0,84.0,100.0,False
+South Africa,Sub-Saharan Africa,9.0,90.0,87.7,False
+Malta,Europe and Northern America,8.76,100.0,100.0,False
+Belarus,Europe and Northern America,8.23,100.0,100.0,False
+Malaysia,Eastern and South-Eastern Asia,8.05,100.0,100.0,False
+Dominica,Latin America and the Caribbean,7.9,94.0,100.0,False
+Israel,Northern Africa and Western Asia,7.63,100.0,100.0,False
+Mauritius,Sub-Saharan Africa,6.8,99.0,100.0,False
+Barbados,Latin America and the Caribbean,5.58,100.0,100.0,False
+Egypt,Northern Africa and Western Asia,5.57,100.0,100.0,False
+Tuvalu,Oceania,4.91,83.0,100.0,False
+Saint Vincent and the Grenadines,Latin America and the Caribbean,4.82,97.0,100.0,False
+Equatorial Guinea,Sub-Saharan Africa,4.45,49.0,66.9,False
+Republic of Korea,Eastern and South-Eastern Asia,4.37,100.0,100.0,False
+Mongolia,Eastern and South-Eastern Asia,4.04,57.0,100.0,False
+Russian Federation,Europe and Northern America,3.41,100.0,100.0,False
+Tonga,Oceania,3.36,90.0,100.0,False
+Micronesia (Federated States of),Oceania,3.25,34.0,86.9,False
+Niue,Oceania,2.72,99.0,100.0,False
+Naoero,Oceania,2.57,99.0,100.0,False
+Libya,Northern Africa and Western Asia,2.43,95.0,73.2,False
+Yemen,Northern Africa and Western Asia,2.21,48.0,83.6,False
+Kazakhstan,Central and Southern Asia,2.13,96.0,100.0,False
+United Arab Emirates,Northern Africa and Western Asia,1.96,99.0,100.0,False
+Seychelles,Sub-Saharan Africa,1.91,99.0,100.0,False
+Singapore,Eastern and South-Eastern Asia,1.57,100.0,100.0,False
+Antigua and Barbuda,Latin America and the Caribbean,1.47,99.0,100.0,False
+Saint Kitts and Nevis,Latin America and the Caribbean,1.47,95.0,100.0,False
+Uzbekistan,Central and Southern Asia,1.44,94.0,100.0,False
+Maldives,Central and Southern Asia,1.4,100.0,100.0,True
+Azerbaijan,Northern Africa and Western Asia,1.26,99.0,100.0,False
+Syrian Arab Republic,Northern Africa and Western Asia,1.18,96.0,88.4,False
+Iran (Islamic Republic of),Central and Southern Asia,0.92,99.0,100.0,True
+Qatar,Northern Africa and Western Asia,0.72,100.0,100.0,False
+Palau,Oceania,0.6,96.0,100.0,False
+Trinidad and Tobago,Latin America and the Caribbean,0.43,100.0,98.7,False
+Bahamas,Latin America and the Caribbean,0.41,100.0,100.0,False
+Oman,Northern Africa and Western Asia,0.41,100.0,100.0,False
+Iraq,Northern Africa and Western Asia,0.25,99.0,100.0,False
+Saudi Arabia,Northern Africa and Western Asia,0.16,100.0,100.0,False
+Bahrain,Northern Africa and Western Asia,0.16,100.0,100.0,False
+Kuwait,Northern Africa and Western Asia,0.13,100.0,100.0,False
+Algeria,Northern Africa and Western Asia,0.13,100.0,100.0,False
+Turkmenistan,Central and Southern Asia,0.04,100.0,100.0,False
+Brunei Darussalam,Eastern and South-Eastern Asia,0.04,100.0,100.0,False
