@@ -1,0 +1,122 @@
+SPEAKER NOTES — SDG 7, Presentation 2
+Suyog Shrestha · Knox College · General Assembly, 5 November 2026
+Deck: sdg-7-Presentation-2.pdf (8 slides)
+
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 1 — Title                                              
+────────────────────────────────────────────────────────────────────────────
+
+My name is Suyog Shrestha from Knox College. Today I will be presenting 
+on SDG 7 — Affordable and Clean Energy — and on what happened when I 
+looked underneath a regional average."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 2 — Research Question                                  
+────────────────────────────────────────────────────────────────────────────
+
+"This is the same question I asked last time. Since 2015, electricity
+access has expanded rapidly across the developing world. Has clean
+cooking kept pace — and where is the gap widest and still growing?
+
+In Presentation 1 I answered it at the level of world regions. Today I
+want to know whether a regional answer can be trusted at all."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 3 — Recap of Presentation 1                            
+────────────────────────────────────────────────────────────────────────────
+
+"A quick recap. The measure is the cooking gap — electricity access
+minus clean cooking access, in percentage points.
+
+Globally that gap narrowed from 23 points to 17. Sub-Saharan Africa was
+the only region both widest and still widening.
+
+But one region stood out for the opposite reason. Central and Southern
+Asia was the second-fastest narrowing region in the world — minus 12.7
+points. That is the claim I am testing today."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 4 — Finding 1 of 3                                     
+────────────────────────────────────────────────────────────────────────────
+
+"So I went one level down, into the nine countries the UN puts inside
+Southern Asia.
+
+Four of the nine are moving the wrong way. Bangladesh's gap grew by
+fourteen and a half points. Afghanistan by 14.3. Nepal by almost five.
+Sri Lanka by almost three.
+
+Five of the countries narrowed — India and Bhutan most of all.
+
+The region is not moving in one direction. It is moving in two."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 5 — Finding 1 of 3, The Reason                         
+────────────────────────────────────────────────────────────────────────────
+
+"So why did the region look like a success?
+
+Both lines on this chart cover the same nine countries. The blue line is
+the UN's figure. It is population-weighted — every person counts once —
+so India's 1.4 billion people set it almost single-handedly. It falls
+twelve points.
+
+The orange line counts every country once instead. It moves by zero.
+
+India gained 32 points of clean cooking in nine years. That is a real
+achievement, and it is the entire regional trend. Average the countries
+instead of the people, and the improvement disappears."
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 6 — Finding 2 of 3                                     
+────────────────────────────────────────────────────────────────────────────
+
+"Second finding. If the deficit is not spread evenly across countries,
+is it spread evenly inside them?
+
+It is not. The blue bars are the distance between town and village on
+electricity. In six of the nine countries it is under two points — in
+Bangladesh it is actually negative, meaning rural access is marginally
+ahead. Electrification reached the villages.
+
+The orange bars are the same distance for clean cooking. Sixty-four
+points in Afghanistan. Sixty-one in Pakistan. Fifty-five in Bangladesh.
+Pakistan's cooking divide is fourteen times its electricity divide.
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 7 — Finding 3 of 3                                     
+────────────────────────────────────────────────────────────────────────────
+
+"Third finding — and this one surprised me.
+
+SDG 7 has a second target: the renewable share of a country's energy.
+Grouped by that share, all 192 countries show the same pattern — clean
+cooking access falls as renewables rise. Ninety-two percent in the least
+renewable group, down to 17 percent in the most.
+
+Indicator 7.2.1 counts firewood, charcoal and dung as renewable energy. 
+So a country can score well on SDG 7.2 precisely because its people are 
+still cooking on wood.
+
+Sri Lanka is the sharpest case here — 55 percent renewable,
+universal electricity, and clean cooking stuck at 31 percent with no net
+gain since 2018.
+
+────────────────────────────────────────────────────────────────────────────
+SLIDE 8 — Emerging Conclusions                               
+────────────────────────────────────────────────────────────────────────────
+
+"To close. Three things.
+
+The regional number was one country — the average of the nine moved by
+zero.
+
+Electricity is effectively finished in Southern Asia. Clean cooking is
+not, and what remains of it is rural.
+
+And one SDG 7 indicator is masking another.
+
+One last number. On the 2015-to-2024 pace, only three of these nine
+countries reach universal clean cooking by 2030 — India, Bhutan and the
+Maldives. Bangladesh lands near 37 percent. Sri Lanka near 33.
